@@ -19,7 +19,7 @@ exports.config = {
                 type: 'string',
                 sm: 6,
                 label: 'Access Password',
-                defaultValue: 'CHANGEME',
+                defaultValue: '',
                 helperText: 'Password required to *get* the stored string. If empty, no auth query is nessecary.\nQuery to use: "auth=Your_Password"'
             },
             editpassword: {
