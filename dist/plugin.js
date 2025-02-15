@@ -1,7 +1,7 @@
-exports.version = 1.0
+exports.version = 1.01
 exports.apiRequired = 10.3
 exports.repo = "W-i-n-7/hfs-simple-data-api"
-exports.description = "Simple API that can provide and edit a string"
+exports.description = "Simple API that can provide and edit a string, If you do not have any APIs then stop the plugin (errors)"
 
 exports.config = {
     apis: {
